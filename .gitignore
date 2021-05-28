@@ -1,3 +1,7 @@
+_all/
+*.mdb
+
+
 # Prerequisites
 *.d
 

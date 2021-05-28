@@ -1,0 +1,94 @@
+Functions called:
+ delete (48 times)
+ memset (78 times)
+ SysReallocMem (652 times)
+ SysFreeMem (5381 times)
+ SysGetMem (5389 times)
+ realloc (1 times)
+ memcpy (32 times)
+ delete[] (2 times)
+ free (26 times)
+ new[] (14 times)
+ new (53 times)
+ calloc (5 times)
+ malloc (20 times)
+Resource types used:
+ object array (14 allocs, 13 max)
+ object (53 allocs, 39 max)
+ memory block (5415 allocs, 624 max)
+Modules used:
+ 00400000 08/28/2006 15:08:20 D:\Programms\Cpp\Reception in_out\Project1.exe
+ 01190000 02/01/2002 18:00:00 C:\PROGRA~1\Borland\CBUILD~1\Bin\BORLNDMM.DLL
+ 019F0000 08/18/2004 16:00:00 C:\WINDOWS\system32\odbcint.dll
+ 01A10000 08/18/2004 16:00:00 C:\Program Files\Common Files\system\ole
+ db\MSDASQLR.DLL
+ 01B20000 08/18/2004 16:00:00 C:\WINDOWS\system32\odbcjt32.dll
+ 07660000 08/18/2004 16:00:00 C:\Program Files\Common
+ Files\System\msadc\msadcer.dll
+ 0CD00000 02/01/2002 18:00:00 C:\PROGRA~1\Borland\CBUILD~1\Bin\CG32.DLL
+ 0F9A0000 08/18/2004 16:00:00 C:\WINDOWS\system32\VBAJET32.DLL
+ 0F9C0000 08/18/2004 16:00:00 C:\WINDOWS\system32\expsrv.dll
+ 1B000000 08/18/2004 16:00:00 C:\WINDOWS\system32\msjet40.dll
+ 1B2C0000 08/18/2004 16:00:00 C:\WINDOWS\system32\msjter40.dll
+ 1B2D0000 08/18/2004 16:00:00 C:\WINDOWS\system32\MSJINT40.DLL
+ 1B5D0000 08/18/2004 16:00:00 C:\WINDOWS\system32\MSWSTR10.DLL
+ 1B810000 08/18/2004 16:00:00 C:\WINDOWS\system32\msjtes40.dll
+ 20000000 08/18/2004 16:00:00 C:\WINDOWS\system32\xpsp2res.dll
+ 32600000 02/01/2002 18:00:00 C:\PROGRA~1\Borland\CBUILD~1\Bin\CC3260MT.DLL
+ 40000000 02/01/2002 18:00:00 C:\WINDOWS\system32\rtl60.bpl
+ 400B0000 02/01/2002 18:00:00 C:\WINDOWS\system32\vcl60.bpl
+ 40310000 02/01/2002 18:00:00 C:\WINDOWS\system32\dbrtl60.bpl
+ 40640000 02/01/2002 18:00:00 C:\WINDOWS\system32\adortl60.bpl
+ 40670000 02/01/2002 18:00:00 C:\WINDOWS\system32\vcldb60.bpl
+ 4CA90000 08/18/2004 16:00:00 C:\Program Files\Common
+ Files\System\ado\msadrh15.dll
+ 4DE70000 08/18/2004 16:00:00 C:\Program Files\Common Files\system\ole
+ db\msdasql.dll
+ 5AED0000 08/18/2004 16:00:00 C:\WINDOWS\system32\odbcji32.dll
+ 5BD50000 08/18/2004 16:00:00 C:\WINDOWS\system32\NETAPI32.dll
+ 5D5B0000 08/18/2004 16:00:00 C:\WINDOWS\system32\comctl32.dll
+ 61350000 08/18/2004 16:00:00 C:\Program Files\Common Files\system\ole
+ db\MSDATL3.dll
+ 71A80000 08/18/2004 16:00:00 C:\WINDOWS\system32\WS2HELP.dll
+ 71A90000 08/18/2004 16:00:00 C:\WINDOWS\system32\WS2_32.dll
+ 71AB0000 08/18/2004 16:00:00 C:\WINDOWS\system32\wsock32.dll
+ 71B00000 08/18/2004 16:00:00 C:\WINDOWS\system32\mpr.dll
+ 72FC0000 08/18/2004 16:00:00 C:\WINDOWS\system32\winspool.drv
+ 73F30000 08/18/2004 16:00:00 C:\Program Files\Common Files\system\ole
+ db\oledb32.dll
+ 73FB0000 08/18/2004 16:00:00 C:\WINDOWS\system32\ODBC32.dll
+ 73FF0000 08/18/2004 16:00:00 C:\Program Files\Common
+ Files\System\msadc\msadce.dll
+ 746E0000 08/18/2004 16:00:00 C:\WINDOWS\system32\MSCTF.dll
+ 74CF0000 08/18/2004 16:00:00 C:\WINDOWS\system32\oledlg.dll
+ 75070000 08/18/2004 16:00:00 C:\WINDOWS\system32\RESUTILS.DLL
+ 750B0000 08/18/2004 16:00:00 C:\WINDOWS\system32\MTXCLU.DLL
+ 750F0000 08/18/2004 16:00:00 C:\WINDOWS\system32\colbact.DLL
+ 75130000 08/18/2004 16:00:00 C:\Program Files\Common Files\system\ole
+ db\OLEDB32R.DLL
+ 760C0000 08/18/2004 16:00:00 C:\WINDOWS\system32\comsvcs.dll
+ 76380000 08/18/2004 16:00:00 C:\WINDOWS\system32\comdlg32.dll
+ 76580000 08/18/2004 16:00:00 C:\WINDOWS\system32\MSDART.DLL
+ 769A0000 08/18/2004 16:00:00 C:\WINDOWS\system32\USERENV.dll
+ 76D90000 08/18/2004 16:00:00 C:\WINDOWS\system32\CLUSAPI.DLL
+ 76FC0000 08/18/2004 16:00:00 C:\WINDOWS\system32\CLBCATQ.DLL
+ 77040000 08/18/2004 16:00:00 C:\WINDOWS\system32\COMRes.dll
+ 77110000 08/18/2004 16:00:00 C:\WINDOWS\system32\oleaut32.dll
+ 773C0000 08/18/2004 16:00:00
+ C:\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.
+2600.2180_x-ww_a84f1ff9\comctl32.dll
+ 774D0000 08/18/2004 16:00:00 C:\WINDOWS\system32\ole32.dll
+ 77910000 08/18/2004 16:00:00 C:\WINDOWS\system32\SETUPAPI.dll
+ 77B30000 08/18/2004 16:00:00 C:\WINDOWS\system32\appHelp.dll
+ 77BF0000 08/18/2004 16:00:00 C:\WINDOWS\system32\version.dll
+ 77C00000 08/18/2004 16:00:00 C:\WINDOWS\system32\msvcrt.dll
+ 77D30000 08/18/2004 16:00:00 C:\WINDOWS\system32\user32.dll
+ 77DC0000 08/18/2004 16:00:00 C:\WINDOWS\system32\advapi32.dll
+ 77E70000 08/18/2004 16:00:00 C:\WINDOWS\system32\RPCRT4.dll
+ 77F10000 08/18/2004 16:00:00 C:\WINDOWS\system32\GDI32.dll
+ 77F60000 08/18/2004 16:00:00 C:\WINDOWS\system32\SHLWAPI.dll
+ 77FE0000 08/18/2004 16:00:00 C:\WINDOWS\system32\Secur32.dll
+ 7C800000 08/18/2004 16:00:00 C:\WINDOWS\system32\kernel32.dll
+ 7C900000 08/18/2004 16:00:00 C:\WINDOWS\system32\ntdll.dll
+ 7C9C0000 08/18/2004 16:00:00 C:\WINDOWS\system32\SHELL32.dll
+==========================================
